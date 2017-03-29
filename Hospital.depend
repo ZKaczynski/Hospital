@@ -1,0 +1,183 @@
+# depslib dependency file v1.0
+1490291464 source:c:\users\zbyszek\documents\_programowanie\hospital\main.cpp
+	<iostream>
+	"tests.h"
+	"ward.h"
+
+1490617816 
+
+1490133697 c:\users\zbyszek\documents\_programowanie\hospital\ward.h
+	"patient.h"
+	<ostream>
+	<vector>
+
+1490133164 source:c:\users\zbyszek\documents\_programowanie\hospital\ward.cpp
+	<cstdlib>
+	<iostream>
+	"ward.h"
+
+1490208024 c:\users\zbyszek\documents\_programowanie\hospital\patient.h
+	"diesease.h"
+	<string>
+
+1490208563 source:c:\users\zbyszek\documents\_programowanie\hospital\patient.cpp
+	<iostream>
+	"patient.h"
+
+1490621191 "
+
+1490291318 c:\users\zbyszek\documents\_programowanie\hospital\tests.h
+
+1490207070 source:c:\users\zbyszek\documents\_programowanie\hospital\tests.cpp
+	"tests.h"
+	"ward.h"
+	<iostream>
+
+1490132270 c:\users\zbyszek\documents\_programowanie\hospital\dieses.h
+
+1490204915 c:\users\zbyszek\documents\_programowanie\hospital\diesease.h
+	<ostream>
+	<vector>
+	<string>
+
+1490292997 source:c:\users\zbyszek\documents\_programowanie\hospital\diesease.cpp
+	<iostream>
+	"diesease.h"
+
+1490382212 h"
+
+1490291737 source:c:\users\zbyszek\documents\_programowanie\hospital\menu.cpp
+	<iostream>
+	<stdlib.h>
+
+1490382212 source:c:\users\zbyszek\desktop\hospital\diesease.cpp
+	<iostream>
+	"Diesease.h"
+
+1490382071 c:\users\zbyszek\desktop\hospital\diesease.h
+	<ostream>
+
+1490618289 source:c:\users\zbyszek\desktop\hospital\main.cpp
+	<iostream>
+	"tests.h"
+
+1490378049 c:\users\zbyszek\desktop\hospital\tests.h
+
+1490382297 c:\users\zbyszek\desktop\hospital\ward.h
+	"patient.h"
+	<ostream>
+
+1490701353 c:\users\zbyszek\desktop\hospital\patient.h
+	"Diesease.h"
+	<ostream>
+	<vector>
+
+1490706003 source:c:\users\zbyszek\desktop\hospital\menu.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<conio.h>
+	"menu_functions.h"
+
+1490706003 tions.h"
+
+1490701353 source:c:\users\zbyszek\desktop\hospital\patient.cpp
+	<iostream>
+	"patient.h"
+
+1490617816 source:c:\users\zbyszek\desktop\hospital\tests.cpp
+	"tests.h"
+	"manager.h"
+	<iostream>
+
+1490645508 source:c:\users\zbyszek\desktop\hospital\ward.cpp
+	<cstdlib>
+	<iostream>
+	"ward.h"
+
+1490699036 source:c:\users\zbyszek\desktop\hospital\manager.cpp
+	<vector>
+	"manager.h"
+	<iostream>
+	<string>
+
+1490699036 c:\users\zbyszek\desktop\hospital\manager.h
+	"ward.h"
+	<ostream>
+	<vector>
+	<iostream>
+	<string>
+
+1490621191 c:\users\zbyszek\desktop\hospital\menu_functions.h
+	"manager.h"
+
+1490706882 source:c:\users\zbyszek\desktop\hospital\menu_functions.cpp
+	"menu_functions.h"
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+
+1490734703 source:/home/kristo/Pulpit/Hospital/diesease.cpp
+	<iostream>
+	"diesease.h"
+
+1490382072 /home/kristo/Pulpit/Hospital/diesease.h
+	<ostream>
+
+1490614690 source:/home/kristo/Pulpit/Hospital/main.cpp
+	<iostream>
+	"tests.h"
+
+1490378050 /home/kristo/Pulpit/Hospital/tests.h
+
+1490695438 source:/home/kristo/Pulpit/Hospital/manager.cpp
+	<vector>
+	"manager.h"
+	<iostream>
+	<string>
+
+1490769381 /home/kristo/Pulpit/Hospital/manager.h
+	"ward.h"
+	<ostream>
+	<vector>
+	<iostream>
+	<string>
+
+1490769378 /home/kristo/Pulpit/Hospital/ward.h
+	"patient.h"
+	<ostream>
+
+1490768758 /home/kristo/Pulpit/Hospital/patient.h
+	"diesease.h"
+	<ostream>
+	<vector>
+
+1490764845 source:/home/kristo/Pulpit/Hospital/menu.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<termios.h>
+	"menu_functions.h"
+
+1490617592 /home/kristo/Pulpit/Hospital/menu_functions.h
+	"manager.h"
+
+1490768803 source:/home/kristo/Pulpit/Hospital/patient.cpp
+	<iostream>
+	"patient.h"
+
+1490614218 source:/home/kristo/Pulpit/Hospital/tests.cpp
+	"tests.h"
+	"manager.h"
+	<iostream>
+
+1490768471 source:/home/kristo/Pulpit/Hospital/ward.cpp
+	<cstdlib>
+	<iostream>
+	"ward.h"
+
+1490764791 source:/home/kristo/Pulpit/Hospital/menu_functions.cpp
+	"menu_functions.h"
+	<iostream>
+	<stdlib.h>
+
